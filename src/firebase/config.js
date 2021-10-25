@@ -3,13 +3,13 @@ import '@firebase/auth';
 import '@firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAOWHBpPhKoNhcGFKHH_Q_0AtL2gV-imgQ',
-  authDomain: 'production-a9404.firebaseapp.com',
-  databaseURL: 'https://production-a9404.firebaseio.com',
-  projectId: 'production-a9404',
-  storageBucket: 'production-a9404.appspot.com',
-  messagingSenderId: '525472070731',
-  appId: '1:525472070731:web:ee873bd62c0deb7eba61ce',
+  apiKey: 'AIzaSyCJACiXw1w9UW4ueVUny5TMPXBQ6QZBc5A',
+  authDomain: 'helloguysconvo.firebaseapp.com',
+  databaseURL: 'https://helloguysconvo.firebaseio.com',
+  projectId: 'helloguysconvo',
+  storageBucket: 'helloguysconvo.appspot.com',
+  messagingSenderId: '341595053011',
+  appId: '1:341595053011:android:bb7d53c03301c671f72d26',
 };
 
 if (!firebase.apps.length) {
